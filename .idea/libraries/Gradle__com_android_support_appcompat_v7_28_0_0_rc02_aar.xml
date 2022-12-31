@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:appcompat-v7:28.0.0-rc02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/f287bf28f880ebe62dbf8587546881da/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/0fa46aca25629fa1641860cb82ae9e1e/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/18fcc25d4513b5be8341c32e62407dce/transformed/appcompat-v7-28.0.0-rc02/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/f287bf28f880ebe62dbf8587546881da/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/f287bf28f880ebe62dbf8587546881da/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/0fa46aca25629fa1641860cb82ae9e1e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/0fa46aca25629fa1641860cb82ae9e1e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/0fa46aca25629fa1641860cb82ae9e1e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/18fcc25d4513b5be8341c32e62407dce/transformed/appcompat-v7-28.0.0-rc02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/18fcc25d4513b5be8341c32e62407dce/transformed/appcompat-v7-28.0.0-rc02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/18fcc25d4513b5be8341c32e62407dce/transformed/appcompat-v7-28.0.0-rc02/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

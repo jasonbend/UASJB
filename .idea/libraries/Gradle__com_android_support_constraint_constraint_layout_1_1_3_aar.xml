@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.constraint:constraint-layout:1.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fe49e0840ccff883acb71c53bd39fb4d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fe49e0840ccff883acb71c53bd39fb4d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/38310ac6225d2ef5139648ec2526733e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/38310ac6225d2ef5139648ec2526733e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/38310ac6225d2ef5139648ec2526733e/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cfe1c0c172ba5188e38e225b6ece245a/transformed/constraint-layout-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfe1c0c172ba5188e38e225b6ece245a/transformed/constraint-layout-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfe1c0c172ba5188e38e225b6ece245a/transformed/constraint-layout-1.1.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
